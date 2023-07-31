@@ -1,13 +1,9 @@
-[
-  {
-    "routes": []
-  },
-  {
-    "name": "punthnat",
-    "value": "bb"
-  },
-  {
-    "name": "ularn",
-    "value": "uu"
+{
+  "routes": [],
+  "configuration": {
+      "appSettings": {
+          "punthnat": "bb",
+          "ularn": "uu"
+      }
   }
-]
+}
