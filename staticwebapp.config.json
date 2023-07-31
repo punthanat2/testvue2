@@ -1,5 +1,9 @@
 {
   "routes": [],
-  "punthnat": "bb",
-  "ularn": "uu"
+  "configuration": {
+    "appSettings": {
+      "punthnat": "bb",
+      "ularn": "uu"
+    }
+  }
 }
